@@ -8,6 +8,6 @@ WIP
 <div>My Projects</div>
 <div>Salon CSS/HTML</div>
 <div align="left">
-  <img src="https://media.giphy.com/media/jCulJrHvHJmHcWiuET/giphy-downsized.gif" width="300" height="200"/>
+  <img src="https://media.giphy.com/media/jCulJrHvHJmHcWiuET/giphy-downsized.gif" width="325" height="200"/>
 </div>
 
