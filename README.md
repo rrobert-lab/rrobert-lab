@@ -7,7 +7,7 @@ WIP
 
 My Projects
 Salon CSS/HTML
-<div align="center">
+<div align="left">
   <img src="https://media.giphy.com/media/jCulJrHvHJmHcWiuET/giphy-downsized.gif" width="300" height="200"/>
 </div>
 
