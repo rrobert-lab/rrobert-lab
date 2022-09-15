@@ -8,4 +8,4 @@ WIP
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rrobert-lab&theme=maroongold)
 
-<a href>https://media.giphy.com/media/jCulJrHvHJmHcWiuET/giphy.gif</a>
+<a href="https://media.giphy.com/media/jCulJrHvHJmHcWiuET/giphy.gif"</a>
