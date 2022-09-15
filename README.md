@@ -9,7 +9,7 @@ WIP
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rrobert-lab&theme=maroongold)
 
 
-<h1>
+
 ![GiF](https://media.giphy.com/media/jCulJrHvHJmHcWiuET/giphy-downsized.gif)
 
-</h1>
+
