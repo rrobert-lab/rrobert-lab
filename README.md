@@ -8,6 +8,6 @@ WIP
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rrobert-lab&theme=maroongold)
 
-![GiF]([name-of-giphy.gif](https://media.giphy.com/media/jCulJrHvHJmHcWiuET/giphy.gif))
+![GiF](https://media.giphy.com/media/jCulJrHvHJmHcWiuET/giphy-downsized.gif)
 
 <a href="https://media.giphy.com/media/jCulJrHvHJmHcWiuET/giphy.gif"</a>
