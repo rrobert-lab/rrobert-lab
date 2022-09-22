@@ -12,5 +12,5 @@ WIP
 </div>
 <div>Local Restaurant CSS/HTML/JS/Materialize</div>
 <div align="left">
-<img src=https://media.giphy.com/media/UkMaeAleUOaNyWnOuP/giphy.gif-downsized.gif" width="325" height="200"/>
+<img src="https://media.giphy.com/media/UkMaeAleUOaNyWnOuP/giphy.gif-downsized.gif" width="325" height="200"/>
 </div>
